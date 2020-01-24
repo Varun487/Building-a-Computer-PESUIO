@@ -4,6 +4,9 @@ PESUIO is a peer-to-peer learning platform by PES University, where students get
 
 For more information, check out the course plan, weekly course content and videos.
 
+## NandToTetris course in coursera
+https://www.coursera.org/learn/build-a-computer
+
 ## PESUIO Idea Pitch
 https://youtu.be/qEEdMQYIfiM
 
